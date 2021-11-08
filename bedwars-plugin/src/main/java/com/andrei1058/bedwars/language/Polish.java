@@ -564,3 +564,8 @@ public class Polish extends Language{
         setPrefix(m(Messages.PREFIX));
     }
 }
+&fAlarm zostal uruchomiony przez {color}{team} &fdruzyne!");
+        save();
+        setPrefix(m(Messages.PREFIX));
+    }
+}
